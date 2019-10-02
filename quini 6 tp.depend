@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1559521316 source:c:\users\gabriel padrevecchi\desktop\excer. in c\quini 6 tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
